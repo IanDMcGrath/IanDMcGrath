@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @IanDMcGrath
-- 👀 I’m interested in ... all things 3D, Science Vizualitations, Architecture, Simulators, Animation, Visual Effects, many more!
-- 🌱 I’m currently learning ... Fullstack Development
-- 💞️ I’m looking to collaborate on ... anything, 3D, data, Unreal Engine.
-- 📫 How to reach me ... https://www.linkedin.com/in/ianmcgrath-techartist/
+I'm Ian McGrath aka NotSoAccurate (because my name is popular).
+I am a Software Engineer | Fullstack Developer | Games enthusiast | 3D generalist | Unreal Engine Developer | SIGGRAPH Asia 2019 Real-time Live Presenter
 
-<!---
-IanDMcGrath/IanDMcGrath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm a software engineer focusing on full stack development. I'm interested in working with Ruby on Rails, React, and Redux. I'm currently working on a clone of ArtStation using Ruby on Rails, React, Redux, CSS. I'm also building a racing game on Javascript, Three Js, and Webpacker.
+
+I have a bachelors in Virtual Technologies & Design with a focus on Unreal Engine. I'm not using Unreal as extensibly as I used to but I would often focus on exciting conundrums in order to understand all aspects of technical art. From character animations & ai behaviors to data structures & mesh generation. I built a teaching tool for proteins using VR for the Institute of Modeling Collaborating & Innovation at University of Idaho and demoed it live at SIGGRAPH Asia 2019's Real-Time Live event.
