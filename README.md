@@ -1,4 +1,4 @@
-I'm Ian McGrath aka NotSoAccurate (because my name is popular).
+I'm Ian McGrath.
 I am a Software Engineer | Fullstack Developer | Games enthusiast | 3D generalist | Unreal Engine Developer | SIGGRAPH Asia 2019 Real-time Live Presenter
 
 
